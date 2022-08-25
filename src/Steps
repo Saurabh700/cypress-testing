@@ -1,0 +1,17 @@
+### steps
+
+1. npm install cypress as developer dependency
+2. in package.json --> inside scripts --> "cypress":"cypress open"
+3. npm start
+4. npm run cypress
+5. start E2E testing in chrome
+6. select create an empty spec option
+7. New spec
+8. continue running the spec
+9. create .eslintrc.json --> there is a chance that in cypress>e2e>spec.cy.js that it may throw an error that "cy" is not defined to nullify this error we have created .eslintrc.json
+
+<!-- if it says cypress verification timed out  then  -> npx cypress verify -->
+
+### Learning objectives
+
+1. How to work with syncronous events,access elements and user events

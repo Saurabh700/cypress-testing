@@ -1,0 +1,5 @@
+{
+  "extends": ["plugin:cypress/recommended"]
+}
+
+// this is a special type of file which checks that you are writting code in correct format or not --> and if you are not writting code in correct format then it will throw an error
